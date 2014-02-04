@@ -3,3 +3,9 @@
 .RData
 
 HW1.Rproj
+
+*.png
+
+*.html
+
+test.md
